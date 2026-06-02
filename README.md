@@ -47,7 +47,7 @@ class Prayush:
             "AI/ML Projects",
             "Data Science",
             "IoT + Smart Systems",
-            "Modern Web Development"
+            
         ]
 
     def life_goal(self):
