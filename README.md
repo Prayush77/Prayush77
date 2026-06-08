@@ -42,28 +42,7 @@ Currently building my foundations in Python, Statistics, Data Analysis, and Mach
 
 ---
 
-## 📌 Current Focus
 
-```python
-learning = [
-    "Machine Learning",
-    "Data Science",
-    "Statistics",
-    "Python"
-]
-
-currently_working_on = [
-    "Titanic Dataset Analysis",
-    "Machine Learning Fundamentals",
-    "Portfolio Projects"
-]
-
-interests = [
-    "Football Analytics"
-]
-```
-
----
 
 ## 📈 GitHub Stats
 
