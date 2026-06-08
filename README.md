@@ -10,11 +10,11 @@ Currently building my foundations in Python, Statistics, Data Analysis, and Mach
 ## 🧠 About Me
 
 - 🎓 Computer Science Student
-- 🐍 Learning Python for Data Science and Machine Learning
+- 🐍 Learning Machine Learning and Data Science with Python
+- 📱 Built Android projects using Java, Kotlin, and Firebase
 - 📊 Exploring Statistics, EDA, and ML algorithms
 - ⚽ Interested in Football Analytics and Sports Data
-- 📚 Following a structured ML learning path and building projects along the way
-- 🎯 Working towards internships and real-world experience
+- 🎯 Working towards internships and real-world projects
 
 ---
 ## 🚀 Tech Stack
