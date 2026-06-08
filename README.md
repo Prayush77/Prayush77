@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prayush Gurung</h1>
-<h3 align="center">AI/ML Enthusiast • Web Developer • Data Science Learner</h3>
+<h3 align="center">Computer Science Student • Learning Machine Learning & Data Science</h3>
 
 <p align="center">
-  Building intelligent systems, modern web apps, and continuously learning new technologies 🚀
+Currently building my foundations in Python, Statistics, Data Analysis, and Machine Learning.
 </p>
 
 ---
@@ -10,29 +10,33 @@
 ## 🧠 About Me
 
 - 🎓 Computer Science Student
-- 🤖 Passionate about AI, Machine Learning & Data Science
-- 🌐 Building modern full-stack and AI-powered applications
-- 📚 Currently exploring Deep Learning & IoT systems
-- 🎯 Looking for internship opportunities and real-world projects
-- ♟️ Chess, books, hiking, and late-night coding sessions
+- 🐍 Learning Python for Data Science and Machine Learning
+- 📊 Exploring Statistics, EDA, and ML algorithms
+- ⚽ Interested in Football Analytics and Sports Data
+- 📚 Following a structured ML learning path and building projects along the way
+- 🎯 Working towards internships and real-world experience
 
 ---
 
 ## 🚀 Tech Stack
 
+### Languages
+
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mysql,sqlite,git,github,vscode,arduino" />
-
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 📊 AI / Data Science
+### Libraries & Tools
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 </p>
 
@@ -41,17 +45,22 @@
 ## 📌 Current Focus
 
 ```python
-class Prayush:
-    def __init__(self):
-        self.current_focus = [
-            "AI/ML Projects",
-            "Data Science",
-            "IoT + Smart Systems",
-            
-        ]
+learning = [
+    "Machine Learning",
+    "Data Science",
+    "Statistics",
+    "Python"
+]
 
-    def life_goal(self):
-        return "Build impactful technology 🚀"
+currently_working_on = [
+    "Titanic Dataset Analysis",
+    "Machine Learning Fundamentals",
+    "Portfolio Projects"
+]
+
+interests = [
+    "Football Analytics"
+]
 ```
 
 ---
@@ -71,23 +80,9 @@ class Prayush:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 
 <a href="https://github.com/Prayush77">
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-</p>
-
----
-
-<p align="center">
-  
-✨ “Code. Learn. Build. Repeat.” ✨
 
 </p>
