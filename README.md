@@ -17,13 +17,12 @@ Currently building my foundations in Python, Statistics, Data Analysis, and Mach
 - 🎯 Working towards internships and real-world experience
 
 ---
-
 ## 🚀 Tech Stack
 
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin" />
 </p>
 
 ### Libraries & Tools
@@ -37,10 +36,9 @@ Currently building my foundations in Python, Statistics, Data Analysis, and Mach
 <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
-
----
 
 
 
